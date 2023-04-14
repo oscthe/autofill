@@ -7,7 +7,7 @@
 
 autofill is a simple module for analyzing and imputing missing values in a pandas dataframe. 
 
-For a specific column, autofill will split the data, fit the imputing techniques and evaluate its fit on the test-sample.
+For a specific column, autofill will split the data, fit the imputing techniques and evaluate its fit on a random test-sample.
 Sample data used in the example below is available [here](https://www.kaggle.com/datasets/dansbecker/melbourne-housing-snapshot).
 
 ### Installation
